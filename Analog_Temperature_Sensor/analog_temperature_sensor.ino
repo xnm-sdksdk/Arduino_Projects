@@ -13,5 +13,6 @@ int sensorValue = analogRead(A0);
 temp=(sensorValue* 0.48828125);
 
 Serial.println(temp);
- delay(1); }
+delay(1);
+
 } 

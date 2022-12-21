@@ -1,3 +1,5 @@
+// This project is a seconds clock
+
 #include <Stepper.h>
 
 #define STEPS 100

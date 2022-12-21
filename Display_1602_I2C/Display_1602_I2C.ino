@@ -14,7 +14,7 @@ void setup() {
   lcd.setCursor(1, 0); // Go to position column 2 & row 1
   lcd.print("Hello, world!"); // Print "Hello, World!"
   lcd.setCursor(0, 1); // Go to position column 1 & row 2
-  lcd.print("I am Arduino"); // Print "I am _Name_"
+  lcd.print(" I am Arduino."); // Print "I am _Name_"
 // // Commonly used instruction codes
 // lcd.clear(); // Clear LCD display screen
 // lcd.home(); // Go to home position (0,0) - column 1 &row 1
@@ -24,3 +24,5 @@ void setup() {
 void loop() {
 // No loopable program for this example
 }
+
+// It is required to connect the power and led with a jumper component, wrap them with the metal and the plastic

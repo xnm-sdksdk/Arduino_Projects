@@ -1,11 +1,6 @@
-# Arduino_Projects
-Arduino Projects developed by me in collegue for the computer systems discipline of the web information systems and technologies course.
-
-Throughout this repository it is possible to carry out exercises of easiest difficulty up to exercises with some considerable difficulty.
-
 # Arduino Collegue Projects
 
-In this repository you can find projects developed by me in the computer systems discipline.
+In this repository you can find projects developed by me in the computer systems discipline of the web information systems and technologies course.
 Here you will find the resolution of several embedded systems, using the Arduino Uno, which is considered ideal for beginners.
 
 The programming language used in these projects is C++, to use it you will need a compiler, because it is not interpreted, but there is no problem, arduino offers a [free editor](https://www.arduino.cc/en/software).

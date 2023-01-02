@@ -35,7 +35,8 @@ What did I learn while building these projects? What challenges did I faced and 
 
 - Control_led_with_2buttons
 
-After this little roadmap, my suggestion is for you to go out and have fun while attempting these projects.
+After this little roadmap, my suggestion is for you to go out and have fun while attempting these projects. I'll be posting more exercises and projects in the future, so stay tuned.
+
 ## Documentation
 
 [Arduino Documentation](https://docs.arduino.cc/)
@@ -47,7 +48,7 @@ After this little roadmap, my suggestion is for you to go out and have fun while
 
 Install Arduino IDE on Linux with Install Script
 
-- After downloading the folder containing the ide extract it the run.
+- After downloading the folder containing the ide extract it then run.
 
 ```bash
   sudo sh install.sh

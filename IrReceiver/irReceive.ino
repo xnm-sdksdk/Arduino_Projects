@@ -23,7 +23,7 @@ void loop()
     irrecv.resume();    
   }  
   delay(600); 
-  if(results.value == 0xFF6897)
+  if(results.value == 0xC1AA09F6) // For Epson Projector Remote
   {
     digitalWrite(ledPin,HIGH);
   }

@@ -54,3 +54,7 @@ Install Arduino IDE on Linux with Install Script
   sudo sh install.sh
 ```
 - You can see the following steps right [here](https://docs.arduino.cc/software/ide-v1/tutorials/Linux).
+
+## Note
+
+- Some exercises may need the use of a library, so you will need to install it in the Arduino IDE. But in case of the need for that i'll be posting the library in the folder of the project. If you don't find it, be kind enough to upload the library into the correct folder to help other people.

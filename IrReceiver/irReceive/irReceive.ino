@@ -1,7 +1,7 @@
 #include <IRremote.h>  
  
 const int irReceiverPin = 2;  
-const int ledPin = 13;
+const int ledPin = 10;
  
 IRrecv irrecv(irReceiverPin); 
 decode_results results;    
@@ -23,7 +23,7 @@ void loop()
     irrecv.resume();    
   }  
   delay(600); 
-  if(results.value == 0xC1AA09F6) // For Epson Projector Remote
+  if(results.value == 0x449E79F) // For Epson Projector Remote  - C1AA09F6
   {
     digitalWrite(ledPin,HIGH);
   }
